@@ -1,0 +1,5 @@
+solution :
+-file for managing the features and users (csv or yml)
+-secret manager for storing the password and other needed info of the users
+-creating ps script that install the features and creates the users with their data on the server
+-make ansible playbook that copy the files to the machine and than run the script with the list file.
